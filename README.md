@@ -1,10 +1,5 @@
 # Selam, ben Efekan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center">
-  <a href="https://github.com/efekanclk">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Yazılım+Mühendisi+Adayı;Backend+Geliştirici+(Django);Frontend+Geliştirici+(React);Sistem+ve+Ağ+Meraklısı&font=Fira+Code&center=true&width=500&height=50&color=36BCF7&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
-  </a>
-</p>
 
 Ankara Üniversitesi'nde **Yazılım Mühendisliği** okuyorum. Ölçeklenebilir backend mimarileri, makine öğrenmesi modelleri ve veri odaklı sistemler tasarlamayı seven bir yazılım geliştiriciyim.
 
@@ -48,11 +43,6 @@ KYK yurtları arası değişim (becayiş) sürecini kolaylaştıran interaktif w
   <img src="https://komarev.com/ghpvc/?username=efekanclk&color=36BCF7&style=flat-square&label=Profil+Görüntülenme" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=efekanclk&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true&v=1" alt="Efekan Trophies" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=efekanclk&layout=donut&theme=tokyonight&hide_border=true&title_color=36BCF7&v=1" alt="Efekan Top Langs" height="195" />
